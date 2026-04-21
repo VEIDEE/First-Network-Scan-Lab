@@ -1,6 +1,10 @@
 # First-Network-Scan-Lab
 Beginner cybersecurity lab focused on network scanning, service investigation, and analysis using Nmap.
 
-![Nmap Scan](screenshots/nmap-scan-1.png)
+<img src="screenshots/nmap-scan-1.png" width="700"/>
 
-![HTTP Interaction](screenshots/curl-5357.png)
+Nmap scan showing open ports
+
+<img src="screenshots/curl-5357.png" width="700"/>
+
+HTTP request showing 503 Service Unavailable response
